@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sarah Johnson's Funky Website"
 title_separator          : "-"
 name                     : &name "Sarah Johnson"
-description              : &description "ooooooooooo description"
+description              : &description "Environmental Science, Geography, and GIS Student"
 url                      : https://srhjhnsn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "srhjhnsn/srhjhnsn.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sarah Johnson"
   avatar           : "kermit_banjo.jpg"
-  bio              : "Student?"
+  bio              : "Student"
   location         : "Catonsville, MD"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/sarah-johnson-b966501bb/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
