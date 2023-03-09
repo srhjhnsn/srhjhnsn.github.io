@@ -11,30 +11,55 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Science and Geography, UMBC, 2023 (expected)
+* Certificate in GIScience, UMBC, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2023 - Present: GIS Lab Proctor
+  * UMBC
+  * Duties include:
+    * Running GIS Lab on campus
+    * Assisting students with GIS Lab assignments during open lab hours
+    * Opening and closing the lab
+    * Helping with various tasks as needed
+    * Ensuring lab policies are followed
+  * Supervisor: Professor Charles Kaylor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* October 2022 - Present: Data Collector
+  * UMBC - ForestGEO
+  * Duties included:
+    *  Surveying selected forest plots with a small team
+    *  Collects data for each individual tree, keeping track on a spreadsheet and map
+    *  Utilizing forestry and geography skills to locate plot boundaries and trees
+    *  Entering data from the paper spreadshets to digital spreadsheets
+  * Supervisor: Professor Matthew Baker
+
+* December 2021 - October 2022: Team Member
+  * JOANN Fabrics and Crafts
+  * Duties included:
+    * Assisting customers in locating and selecting goods, and resolving customer issues
+    * Packing online orders and preparing them for shipment or in-store pickup
+    * Conducting payment transactions, returns, and exchanges
   * Supervisor: Professor Hub
+
+* Summer 2017 and Summer 2018: Lifeguard
+  * Guarduian Aquatics
+  * Duties included:
+    * Responsibility for patron safety during recreational swimming, swim team practices, fitness classes, and large events
+    * Maintaining pool cleanliness and chemical levels
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Trained GIS User
+  * ArcGIS Pro
+  * ENVI
+  * QGIS
+* Field experience in Forestry
+* Proficient in Microsoft Office
+* Proven problem-solving skills
+* Excellent interpersonal and teamwork skills
+* Strong time management and multitasking skills
 
 Publications
 ======
