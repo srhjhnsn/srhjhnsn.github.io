@@ -26,6 +26,7 @@ Work experience
     * Ensuring lab policies are followed
   * Supervisor: Professor Charles Kaylor
 
+
 * October 2022 - Present: Data Collector
   * UMBC - ForestGEO
   * Duties included:
@@ -35,6 +36,7 @@ Work experience
     *  Entering data from the paper spreadshets to digital spreadsheets
   * Supervisor: Professor Matthew Baker
 
+
 * December 2021 - October 2022: Team Member
   * JOANN Fabrics and Crafts
   * Duties included:
@@ -42,6 +44,7 @@ Work experience
     * Packing online orders and preparing them for shipment or in-store pickup
     * Conducting payment transactions, returns, and exchanges
   * Supervisor: Professor Hub
+
 
 * Summer 2017 and Summer 2018: Lifeguard
   * Guarduian Aquatics
