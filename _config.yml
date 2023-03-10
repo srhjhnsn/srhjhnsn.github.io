@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarah Johnson's Funky Website"
+title                    : "Sarah Johnson's Funky Cool Website"
 title_separator          : "-"
 name                     : &name "Sarah Johnson"
 description              : &description "Environmental Science, Geography, and GIS Student"
