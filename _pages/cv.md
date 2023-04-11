@@ -63,3 +63,16 @@ Skills
 * Excellent interpersonal and teamwork skills
 * Strong time management and multitasking skills
 
+# ---
+# title: "CV"
+# permalink: /cv/
+# author_profile: true
+# redirect_from:
+#   - /resume
+# ---
+# Here is my resume
+#
+# [Download resume here](http://academicpages.github.io/files/Sarah_Johnson_Resume.pdf)
+# 
+# Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
