@@ -43,7 +43,6 @@ Work experience
     * Assisting customers in locating and selecting goods, and resolving customer issues
     * Packing online orders and preparing them for shipment or in-store pickup
     * Conducting payment transactions, returns, and exchanges
-  * Supervisor: Professor Hub
 
 
 * Summer 2017 and Summer 2018: Lifeguard
