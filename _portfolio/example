@@ -3,11 +3,6 @@ title: "Baltimore City Hexagons"
 excerpt: "some hexagon maps of Baltimore City depicting vacant lots, median household income, and percentage white population<br/><img src='/images/kermit_banjo.jpg'>"
 collection: portfolio
 ---
-
-![](images/vacant.jpg)
- 
-![](images/mhhi.jpg)
- 
-![](images/white.jpg)
-
-<br/><img src='/images/kermit_banjo.jpg'
+<br/><img src='/images/vacant.jpg'
+<br/><img src='/images/mhhi.jpg'
+<br/><img src='/images/white.jpg'
