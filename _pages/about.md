@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sarah's Funky Cool Website"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
