@@ -15,6 +15,6 @@ After the books were read and tabbed, I extracted the sightings into an Excel sp
 	
 The TNT area is very relevant to this analysis, so I created a polygon of the NPL’s boundary of the Superfund Site as of 1994 to use based off an image from the Wikipedia site for [West Virginia Ordnance Works](https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works#).
 
-<br/><img src='/images/vacant.jpg'
-<br/><img src='/images/mhhi.jpg'
-<br/><img src='/images/white.jpg'
+## **Results**
+![](/images/mothman_heatmap.jpg)
+
