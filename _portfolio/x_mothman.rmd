@@ -1,0 +1,8 @@
+---
+title: "An Analysis of Mothman Sightings"
+excerpt: "Mothman is a cryptozoological creature that terrororized the citizens of Point Pleasant, WV and surrounding areas between 1966-1967. Here, I present an analysis of the sighings I could find information about<br/><img src='/images/balt_hex_preview.png'>"
+collection: portfolio
+---
+<br/><img src='/images/vacant.jpg'
+<br/><img src='/images/mhhi.jpg'
+<br/><img src='/images/white.jpg'
