@@ -3,6 +3,8 @@ title: "GES 486 Final Project: An Analysis of Mothman Sightings in Point Pleasan
 excerpt: "Mothman is a cryptozoological creature that terrororized the citizens of Point Pleasant, WV and surrounding areas between 1966-1967. Here, I present an analysis of the sighings I could find information about. Image of Mothman Statue in Point Pleasant from [The Charleston Gazette](https://www.wvgazettemail.com/arts_and_entertainment/annual-mothman-festival-makes-point-pleasant-a-paranormal-paradise-this-weekend/article_1a0652dc-d480-5c2e-809a-5db33dd90f7d.html) <br/><img src='/images/mothman_statue.jpg'>"
 collection: portfolio
 ---
+## **Introduction**
+
 ## **Methods**
 
 ### ***Data Source***
@@ -16,23 +18,30 @@ After the books were read and tabbed, I extracted the sightings into an Excel sp
 The TNT area is very relevant to this analysis, so I created a polygon of the NPL’s boundary of the Superfund Site as of 1994 to use based off an image from the Wikipedia site for [West Virginia Ordnance Works](https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works#).
 
 ## **Results**
+
+### ***Heatmap***
 <br/><img src='/images/mothman_heatmap.jpeg'>
 
 This is a heatmap of the approximate locations of each sighting. In this area, they seem to be concentrated in and around the TNT Area. This map excludes sightings outside of the Point Pleasant Area.
 
-
+### ***Proximity to TNT Area***
 <br/><img src='/images/mothman_proximity_map.jpeg'>
 <br/><img src='/images/mothman_proximity_chart.png'>
 
 This map depicts the proximity of each sighting in the Point Pleasant area to the TNT area in half mile intervals. The chart breaks down the percentage of the sighting’s proximity, combining the previous category to the next. For example, the <1 mile category includes the sightings inside the TNT area and sightings <0.5 miles away.
 
-
+### ***Bar Charts***
 <br/><img src='/images/mothman_chart_layout.jpg'>
 
 These bar charts depict different aspects of the sightings. Specifically, attribtues of Mothman's appearance and details of the timings of sightings
 
-
-<iframe src="https://srhjhnsn.github.io/portfolio/mothman_webmap/index.html" width="600" height="450" style="border:0" allowfullscreen></iframe>
+### ***Web Map***
+<iframe src="https://srhjhnsn.github.io/portfolio/mothman_webmap/index.html" width="750" height="500" style="border:0" allowfullscreen></iframe>
 
 This is the link to the Web Map, which depicts the locations of all the Mothman sightings I could find in the 2 books, including the ones outside of the Point Pleasant area.
+
+## **Discussion**
+
+
+## **References**
 
