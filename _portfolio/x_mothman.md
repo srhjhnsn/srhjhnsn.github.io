@@ -11,7 +11,7 @@ Mothman is a humanoid, cryptozoological creature with moth-like features, most n
 
 ### ***TNT Area***
 
-There have been many sightings at and around the site of a former World War II munitions plant called the West Virginia Ordnance Works, also known as the “TNT Area”. After WW2 ended, the government deeded the area to the state of West Virginia under the stipulation that it would become a wildlife management area. And so, in 1945, the McClintic State Wildlife Management Area was created (EPA, 2023). The area was put on the National Priority List (NPL) in 1983 due to the heavy pollution, making it eligible for government assisted cleanup through the Superfund Program. At the time, it was in the top 10 most polluted sites in the United States. As of 2007, it has still not been fully cleaned. (Wikipedia Contributors, 2021).
+There have been many sightings at and around the site of a former World War II munitions plant called the West Virginia Ordnance Works, also known as the “TNT Area”. After WW2 ended, the government deeded the area to the state of West Virginia under the stipulation that it would become a wildlife management area. And so, in 1945, the McClintic State Wildlife Management Area was created (EPA, 2023). The area was put on the National Priority List (NPL) in 1983 due to the heavy pollution, making it eligible for government assisted cleanup through the Superfund Program. At the time, it was in the top 10 most polluted sites in the United States. As of 2007, it has still not been fully cleaned (Wikipedia Contributors, 2021).
 
 ### ***Speculations***
 
