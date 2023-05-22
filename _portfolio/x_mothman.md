@@ -16,8 +16,7 @@ After the books were read and tabbed, I extracted the sightings into an Excel sp
 The TNT area is very relevant to this analysis, so I created a polygon of the NPL’s boundary of the Superfund Site as of 1994 to use based off an image from the Wikipedia site for [West Virginia Ordnance Works](https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works#).
 
 ## **Results**
-![](/images/mothman_heatmap.jpeg)
-
+<br/><img src='/images/mothman_heatmap.jpeg'>
 This is a heatmap of the approximate locations of each sighting. In this area, they seem to be concentrated in and around the TNT Area. This map excludes sightings outside of the Point Pleasant Area.
 
 [Insert location map and chart]
