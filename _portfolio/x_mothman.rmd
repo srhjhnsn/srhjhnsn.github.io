@@ -3,6 +3,13 @@ title: "An Analysis of Mothman Sightings"
 excerpt: "Mothman is a cryptozoological creature that terrororized the citizens of Point Pleasant, WV and surrounding areas between 1966-1967. Here, I present an analysis of the sighings I could find information about<br/><img src='/images/balt_hex_preview.png'>"
 collection: portfolio
 ---
+##**Methods**
+###***Data Source***
+	The data I used came from 2 books, *The Mothman Prophecies* by J. A. Keel, and *Mothman: The Facts Behind the Legend* by D. Sergent and J. Wamsley. I read and tabbed both books, noting sightings and other interesting information that could be relevant to this analysis. It is worth noting that my data set is most likely incomplete, as there are many sightings that did not reach the news or these books that I could not attain more information on.
+###***Analysis***
+After the books were read and tabbed, I extracted the sightings into an Excel spreadsheet, converted into a .csv file, and loaded into R, where the points were given geometry and converted into a .shp file. For the locations of each sighting, I estimated based on the description of the event. Some were specific enough to pinpoint an exact location, but others were more vague so I gave my best educated guess based on the context. 
+The TNT area is very relevant to this analysis, so I created a polygon of the NPL’s boundary of the Superfund Site as of 1994 to use based off an image from the Wikipedia site for (West Virginia Ordnance Works)[https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works#].
+
 <br/><img src='/images/vacant.jpg'
 <br/><img src='/images/mhhi.jpg'
 <br/><img src='/images/white.jpg'
