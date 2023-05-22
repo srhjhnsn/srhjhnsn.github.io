@@ -17,14 +17,18 @@ The TNT area is very relevant to this analysis, so I created a polygon of the NP
 
 ## **Results**
 <br/><img src='/images/mothman_heatmap.jpg'>
+
 This is a heatmap of the approximate locations of each sighting. In this area, they seem to be concentrated in and around the TNT Area. This map excludes sightings outside of the Point Pleasant Area.
 
 [Insert location map and chart]
+
 This map depicts the proximity of each sighting in the Point Pleasant area to the TNT area in half mile intervals. The chart breaks down the percentage of the sighting’s proximity, combining the previous category to the next. For example, the <1 mile category includes the sightings inside the TNT area and sightings <0.5 miles away.
 
 [Insert bar charts]
+
 These bar charts depict different aspects of the sightings. Specifically, attribtues of Mothman's appearance and details of the timings of sightings
 
 (Web Map!)[Insert link to webmap]
+
 This is the link to the Web Map, which depicts the locations of all the Mothman sightings I could find in the 2 books, including the ones outside of the Point Pleasant area.
 
