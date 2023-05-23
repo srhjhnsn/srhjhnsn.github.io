@@ -51,7 +51,7 @@ This map depicts the proximity of each sighting in the Point Pleasant area to th
 ### ***Bar Charts***
 <br/><img src='/images/mothman_chart_layout.jpg'>
 
-These bar charts depict different aspects of the sightings. Specifically, attribtues of Mothman's appearance and details of the timings of sightings
+These bar charts depict different aspects of the sightings. Specifically, attribtues of Mothman's appearance and details of the timings of sightings.
 
 ### ***Web Map***
 <iframe src="https://srhjhnsn.github.io/portfolio/mothman_webmap/index.html" width="750" height="750" style="border:0" allowfullscreen></iframe>
@@ -60,17 +60,30 @@ This is the link to the Web Map, which depicts the locations of all the Mothman 
 
 ## **Discussion**
 
+Based on the data that I gathered, the sightings in the Point Pleasant area seem to be centered around the TNT area, as opposed to the downtown area. This doesn’t conclude that this is Mothman’s home, but he does seem to hang around there quite a bit. Nevertheless, there seems to be a geographical connection to the TNT area, which is already well known.
+
+There seems to be a general consensus that the creature the witnesses saw was gray in color and was about 6-7 feet tall. While not many people commented specifically about his wingspan, two out of three who did noted that it was about 10 feet. About 60% of the sightings noted in this analysis took place during the night, while the other 40% took place during the day. I was expecting this outcome because I feel that scary things tend to happen more often at night than at day, but I am unsure if this has ever been scientifically proven.
+
+In this sample, it appears that the most common day for sightings was Sundays, and not Wednesdays. I don’t believe this fully disproves Keel’s theory because I had incomplete data. Nevertheless, I think it’s interesting that the theory was proposed, and it was interesting to analyze with my own data.
+
+This analysis was enjoyable to conduct. While I didn’t draw any conclusions that weren’t already known, I feel I gained a better understanding of how to utilize both QGIS and RStudio. I learned new techniques and understand GIS better than before, especially with using coding to create charts and map attributes.
+
+All in all, I am satisfied with my work and I’m glad I chose this topic. Whether Mothman exists or not, he will remain a part of modern American folklore, and a part of pop culture. 
 
 ## **References**
 
-EPA. (2023). WEST VIRGINIA ORDNANCE (USARMY) | Superfund Site Profile | Superfund Site Information | US EPA. https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0303066
+EPA. (2023). *WEST VIRGINIA ORDNANCE (USARMY), Superfund Site Profile, Superfund Site Information, US EPA*. https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&id=0303066
 
-Keel, J. A. (2002). The Mothman Prophecies: A True Story. Tor Books.
+Keel, J. A. (2002). *The Mothman Prophecies: A True Story*. Tor Books.
 
-Romain, L. (2020, August 5). What Is the Mothman and Why Are We So Obsessed? - Nerdist. Nerdist. https://nerdist.com/article/mothman-why-we-are-so-obsessed/
+Romain, L. (2020, August 5). *What Is the Mothman and Why Are We So Obsessed?*. Nerdist. https://nerdist.com/article/mothman-why-we-are-so-obsessed/
 
-Sergent, D., & Wamsley, J. (2002). Mothman: The Facts Behind the Legend. Mothman Lives Publishing.
+Sergent, D., & Wamsley, J. (2002). *Mothman: The Facts Behind the Legend*. Mothman Lives Publishing.
 
-Wikipedia contributors. (2023). Mothman. Wikipedia. https://en.wikipedia.org/wiki/Mothman#
+Walker, K. E. (n.d.). *Analyzing US Census Data*. https://walker-data.com/census-r/
 
-Wikipedia contributors. (2021). West Virginia Ordnance Works. Wikipedia. https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works#
+Walker, K. E. (2023, May 19). *Load Census TIGER/Line Shapefiles* (B. Rudis, Ed.). https://cran.r-project.org/web/packages/tigris/tigris.pdf
+
+Wikipedia contributors. (2023). *Mothman*. Wikipedia. https://en.wikipedia.org/wiki/Mothman#
+
+Wikipedia contributors. (2021). *West Virginia Ordnance Works*. Wikipedia. https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works#
