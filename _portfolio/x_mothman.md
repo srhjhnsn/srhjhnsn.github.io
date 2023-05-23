@@ -66,7 +66,7 @@ In this sample, it appears that the most common day for sightings was Sundays, a
 
 This analysis was enjoyable to conduct. While I didn’t draw any conclusions that weren’t already known, I feel I gained a better understanding of how to utilize both QGIS and RStudio. I learned new techniques and understand GIS better than before, especially with using coding to create charts and map attributes.
 
-All in all, I am satisfied with my work and I’m glad I chose this topic. Whether Mothman exists or not, he will remain a part of modern American folklore, and a part of pop culture. 
+All in all, I am satisfied with my work and I’m glad I chose this topic. Whether Mothman exists or not, he will remain a part of modern American folklore and pop culture. 
 
 ## **References**
 
