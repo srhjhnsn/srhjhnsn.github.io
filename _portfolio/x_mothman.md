@@ -20,9 +20,9 @@ Whether Mothman is real or not, if it was mass hysteria, or if Mothman was a pre
 
 ## **Methods**
 
-### ***Data Source***
+### ***Data***
 
-The data I used came from 2 books, *The Mothman Prophecies* by J. A. Keel, and *Mothman: The Facts Behind the Legend* by D. Sergent and J. Wamsley. I read and tabbed both books, noting sightings and other interesting information that could be relevant to this analysis. It is worth noting that my data set is most likely incomplete, as there are many sightings that did not reach the news or these books that I could not attain more information on. I also attained geography feature shapefiles from the TIGRIS package in RStudio, and created a shapefile for the Silver Bridge.
+The data I used came from 2 books, *The Mothman Prophecies* by J. A. Keel, and *Mothman: The Facts Behind the Legend* by D. Sergent and J. Wamsley. I read and tabbed both books, noting sightings and other interesting information that could be relevant to this analysis. Locations were estimated based on the description of each event. It is worth noting that my data set is most likely incomplete, as there are many sightings that did not reach the news or these books that I could not attain more information on. I attained geography feature shapefiles from the TIGRIS package in RStudio, created a shapefile for the Silver Bridge, and created a shapefile for the TNT area based on an image from [Wikipedia](https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works#)
 
 ### ***Analysis***
 
@@ -52,7 +52,7 @@ This map depicts the proximity of each sighting in the Point Pleasant area to th
 These bar charts depict different aspects of the sightings. Specifically, attribtues of Mothman's appearance and details of the timings of sightings.
 
 ### ***Web Map***
-<iframe src="https://srhjhnsn.github.io/portfolio/mothman_webmap/index.html" width="750" height="750" style="border:0" allowfullscreen></iframe>
+<iframe src="https://srhjhnsn.github.io/portfolio/mothman_webmap/index.html" width="750" height="600" style="border:0" allowfullscreen></iframe>
 
 This is the link to the Web Map, which depicts the locations of all the Mothman sightings I could find in the 2 books, including the ones outside of the Point Pleasant area.
 
