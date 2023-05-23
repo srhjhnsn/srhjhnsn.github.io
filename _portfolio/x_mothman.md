@@ -22,18 +22,16 @@ Whether Mothman is real or not, if it was mass hysteria, or if Mothman was a pre
 
 ### ***Data Source***
 
-The data I used came from 2 books, *The Mothman Prophecies* by J. A. Keel, and *Mothman: The Facts Behind the Legend* by D. Sergent and J. Wamsley. I read and tabbed both books, noting sightings and other interesting information that could be relevant to this analysis. It is worth noting that my data set is most likely incomplete, as there are many sightings that did not reach the news or these books that I could not attain more information on.
+The data I used came from 2 books, *The Mothman Prophecies* by J. A. Keel, and *Mothman: The Facts Behind the Legend* by D. Sergent and J. Wamsley. I read and tabbed both books, noting sightings and other interesting information that could be relevant to this analysis. It is worth noting that my data set is most likely incomplete, as there are many sightings that did not reach the news or these books that I could not attain more information on. I also attained geography feature shapefiles from the TIGRIS package in RStudio, and created a shapefile for the Silver Bridge.
 
 ### ***Analysis***
 
-After the books were read and tabbed, I extracted the sightings into an Excel spreadsheet, converted into a .csv file, and loaded into R, where the points were given geometry and converted into a .shp file. For the locations of each sighting, I estimated based on the description of the event. Some were specific enough to pinpoint an exact location, but others were more vague so I gave my best educated guess based on the context. 
-	
-The TNT area is very relevant to this analysis, so I created a polygon of the NPL’s boundary of the Superfund Site as of 1994 to use based off an image from the Wikipedia site for [West Virginia Ordnance Works](https://en.wikipedia.org/wiki/West_Virginia_Ordnance_Works#).
+I created bar graphs in RStudio to vizualize different aspects of Mothman's appearance, as well as well as the timing of sightings. I picked color, height, and wingspan to see how much witness’s accounts of his appearance were alike. Time of day was chosen because I was curious to see when Mothman tended to appear. Author John Keel noted something in his book called the Wednesday effect, in which he did an analysis of odd events such as UFO sightings and Mothman sightings and determined that they tended to fall on Wednesdays. I wanted to see if the data I collected aligned with this theory.
 
-I used RStudio to create bar graphs of various factors of the sightings, such as Mothman’s color, height, and wingspan, as well as the day of the week and time of day of the sightings. These graphs individually excluded any sightings that didn’t have information for the respective category. I picked color, height, and wingspan to see how much witness’s accounts of his appearance were alike. Time of day was chosen because I was curious to see when Mothman tended to appear. Author John Keel noted something in his book called the Wednesday effect, in which he did an analysis of odd events such as UFO sightings and Mothman sightings and determined that they tended to fall on Wednesdays. I wanted to see if the data I collected aligned with this theory.
-
-I then used QGIS to create 3 maps. The first map I made was a Web Map of all sightings I had information about. The points include descriptions of the event, location, witness name, and how many people were present at the time of the event. I also included the NPL Boundary polygon and background information about it as a Superfund Site. The second map I created was a heatmap of the sightings in the Point Pleasant area, and the third was a map depicting the proximity of each sighting to the TNT area, based on the NPL boundary. Both of these maps used the polygons acquired from TIGRIS, and the shapefile I made of the Silver Bridge.
-
+I then used QGIS to create 3 maps:
+- A heatmap of the sightings in the Point Pleasant area
+- A map depicting the sightings' to the TNT Area (in the Point Pleasant area)
+- A Web Map of all sightings
 
 ## **Results**
 
