@@ -21,6 +21,11 @@ Next, I created an administrative map of Douglas Point. The points and lines wer
 
 ### ***Land Use/Land Cover***
 The next thing I created was a Land Use/Land Cover (LULC) analysis of Douglas Point. I used [1-meter resolution LULC data from the Conservancy](https://www.chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/lulc-data-project-2022/) from 2018 to conduct my own analysis, and I used [ICLEI's Land Emissions And Removals Navigator (LEARN) Tool](https://icleiusa.org/LEARN/) to conduct a separate analysis so I could then compare the two.
+#### CC's 1-Meter Resolution LULC Results
+<img src='/images/douglaspoint_lu_chart.png'><img src='/images/douglaspoint_lu_table.png'>
+<img src='/images/douglaspoint_lc_chart.png'><img src='/images/douglaspoint_lc_table.png'>
+
+#### ICLEI's LEARN Tool Results
 
 ### ***Hydrography & Topography***
 
