@@ -1,6 +1,6 @@
 ---
 title: "Summer 2023 Internship at the Chesapeake Conservancy & Bureau of Land Management"
-excerpt: "Photo of Douglas Point Special Recreation Management Area, located in Charles County, MD. Photo taken by Sarah Johnson<br/><img src='/images/douglaspoint.png'>"
+excerpt: "Preview of a hydrography map of Douglas Point Special Recreation Management Area<br/><img src='/images/dp_hydro_preview.png'>"
 collection: portfolio
 ---
 ## **Intro**
