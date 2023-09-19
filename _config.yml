@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarah Johnson's Funky Cool Website"
+title                    : "Sarah Johnson's Website"
 title_separator          : "-"
 name                     : &name "Sarah Johnson"
 description              : &description "Environmental Science, Geography, and GIS Student"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sarah Johnson"
-  avatar           : "sarah_orchard.jpg"
+  avatar           : "sarah_headshot.jpeg"
   bio              : "Environmental Science, Geography, and GIS Student"
   location         : "Catonsville, MD"
   employer         :
