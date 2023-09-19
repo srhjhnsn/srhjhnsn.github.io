@@ -15,8 +15,7 @@ insert pdfs here
 ### ***Administrative Map***
 Next, I created an administrative map of Douglas Point. The points and lines were created using the Trimble Geo 7x. I then created a numbering and color system to make it easy to decipher points, and also to make it more visually pleasing.
 
-insert photos here
-<img src='/images/dp_hydro_preview.jpg'><img src='/images/dp_hydro_preview.jpg'>
+<img src='/images/douglas_point_admin_map_web.jpg'><img src='/images/douglas_point_admin_inset_web.jpg'>
 
 ## **Story Map**
 (https://storymaps.arcgis.com/stories/e2f2457e60bf43f483bf98129f792856)
