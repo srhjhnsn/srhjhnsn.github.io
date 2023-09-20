@@ -24,7 +24,7 @@ The next thing I created was a Land Use/Land Cover (LULC) analysis of Douglas Po
 #### CC's 1-Meter Resolution LULC Results
 <img src='/images/douglaspoint_lu_chart.png'><img src='/images/douglaspoint_lu_table.png'>
 <img src='/images/douglaspoint_lc_chart.png'><img src='/images/douglaspoint_lc_table.png'>
-
+The most noticable characteristic of Douglas Point is that it is around 97% forest. 
 #### ICLEI's LEARN Tool Results
 
 ### ***Hydrography & Topography***
