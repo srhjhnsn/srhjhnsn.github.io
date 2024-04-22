@@ -17,7 +17,8 @@ insert pdfs here
 ### ***Administrative Map***
 Next, I created an administrative map of Douglas Point. The points and lines were created using the Trimble Geo 7x. I then created a numbering and color system to make it easy to decipher points, and also to make it more visually pleasing. The final deliverable is a two-map set (I recieved permission to make these public).
 
-<img src='/images/douglas_point_admin_map_web.jpg'><img src='/images/douglas_point_admin_inset_web.jpg'>
+<img src='/images/douglas_point_admin_map_web.jpg' style="float:left; margin-right:10px;">
+<img src='/images/douglas_point_admin_inset_web.jpg' style="float:left">
 
 ### ***Land Use/Land Cover***
 The next thing I created was a Land Use/Land Cover (LULC) analysis of Douglas Point. I used [1-meter resolution LULC data from the Conservancy](https://www.chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/lulc-data-project-2022/) from 2018 to conduct my own analysis, and I used [ICLEI's Land Emissions And Removals Navigator (LEARN) Tool](https://icleiusa.org/LEARN/) to conduct a separate analysis so I could then compare the two.
