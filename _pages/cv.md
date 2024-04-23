@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environmental Science and Geography, UMBC, 2023 (expected)
-* Certificate in GIScience, UMBC, 2023 (expected)
+* B.S. in Environmental Science and Geography, UMBC, 2023
+* Certificate in GIScience, UMBC, 2023
 
 Work experience
 ======
-* August 2023 - Present: Landsat Science Writing Intern
+* August 2023 - December 2023: Landsat Science Writing Intern
   * NASA
   * Duties include:
     * Writing informational content & occasional social media content about Landsat functions, benefits, etc.
