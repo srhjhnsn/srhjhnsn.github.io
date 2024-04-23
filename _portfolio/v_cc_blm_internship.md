@@ -1,6 +1,6 @@
 ---
 title: "Summer 2023 Internship at the Chesapeake Conservancy & Bureau of Land Management"
-excerpt: "A recap of my summer internship as a GIS Intern with maps, graphics, and explanations for each one. Photo: preview of a hydrography map of Douglas Point Special Recreation Management Area<br/><img src='/images/dp_hydro_preview2.png'>"
+excerpt: "A recap of my summer internship as a GIS Intern with maps, graphics, and descriptions. Photo: preview of a hydrography map of Douglas Point Special Recreation Management Area<br/><img src='/images/dp_hydro_preview2.png'>"
 collection: portfolio
 ---
 # **Under Construction**
@@ -12,13 +12,14 @@ In the summer of 2023, I was given the opportunity to intern at the Chesapeake C
 ### ***Site Maps***
 The first set of maps I created were site maps of Douglas Point and Meadowood. I was asked to create these as a way for me to become more familiar with the two sites, and I also created a webmap version of these, which can be found in my [Story Map](https://storymaps.arcgis.com/stories/e2f2457e60bf43f483bf98129f792856). Pictured below are the deliverables of the both site maps, complete with background information of each and the regional context.
 
-insert pdfs here
+<img src='/images/DouglasPoint.jpg' width="495" height="765" style="float:left; margin-right:10px;">
+<img src='/images/Meadowood.jpg' width="495" height="765" style="float:left">
 
 ### ***Administrative Map***
 Next, I created an administrative map of Douglas Point. The points and lines were created using the Trimble Geo 7x. I then created a numbering and color system to make it easy to decipher points, and also to make it more visually pleasing. The final deliverable is a two-map set (I recieved permission to make these public).
 
-<img src='/images/douglas_point_admin_map_web.jpg' style="float:left; margin-right:10px;">
-<img src='/images/douglas_point_admin_inset_web.jpg' style="float:left">
+<img src='/images/douglas_point_admin_map_web.jpg' width="495" height="765" style="float:left; margin-right:10px;">
+<img src='/images/douglas_point_admin_inset_web.jpg' width="495" height="765" style="float:left">
 
 ### ***Land Use/Land Cover***
 The next thing I created was a Land Use/Land Cover (LULC) analysis of Douglas Point. I used [1-meter resolution LULC data from the Conservancy](https://www.chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/lulc-data-project-2022/) from 2018 to conduct my own analysis, and I used [ICLEI's Land Emissions And Removals Navigator (LEARN) Tool](https://icleiusa.org/LEARN/) to conduct a separate analysis so I could then compare the two.
@@ -32,4 +33,4 @@ The most noticable characteristic of Douglas Point is that it is around 97% fore
 
 
 ## **Story Map**
-(https://storymaps.arcgis.com/stories/e2f2457e60bf43f483bf98129f792856)
+As my final presentation, I created an [ESRI StoryMap](https://storymaps.arcgis.com/stories/e2f2457e60bf43f483bf98129f792856) and presented it to my colleagues. 
