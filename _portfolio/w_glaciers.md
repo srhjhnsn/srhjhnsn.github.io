@@ -13,7 +13,7 @@ To visually sumarize the change in glacier surface area, I created 2 gifs of the
 
 
 ## **Paper**
-This is my research paper that goes into fine detail about everything that went into this study. 
+This is my research paper that goes into detail about everything that went into this study, including the previous research I used as a baseline. 
   <iframe
       src="/files/481_finalpaper_johnson.pdf"
       width="100%"
