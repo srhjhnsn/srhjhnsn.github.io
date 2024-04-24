@@ -9,4 +9,4 @@ In the summer of 2023, I was given the opportunity to be a GIS Intern at the Che
 
 ## **StoryMap**
 As my final presentation, I created a [StoryMap](https://storymaps.arcgis.com/stories/e2f2457e60bf43f483bf98129f792856) to highlight my work over the summer and present it to my colleagues. This includes most of the work I did and summarizes everything.
-<iframe src="https://storymaps.arcgis.com/stories/e2f2457e60bf43f483bf98129f792856?header" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+<iframe src="https://storymaps.arcgis.com/stories/e2f2457e60bf43f483bf98129f792856?header" width="900px" height="700px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
