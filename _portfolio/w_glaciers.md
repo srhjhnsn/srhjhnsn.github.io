@@ -8,7 +8,7 @@ GES 481: Remote Sensing of The Environment was a class I took in Spring 2023. Th
 
 ## **Images**
 To visually sumarize the change in glacier surface area, I created 2 gifs of the classification and the red band grayscale. They may not show up properly in the paper itself, so I have included them here so you can see the blatant retreat of these glaciers. More details on how I created these gifs and how I processed the Landsat images can be found in my paper.
-<img src='/images/classification.gif' width="400" height="648" style="float:left; margin-right:10px;">
+<img src='/images/classifications.gif' width="400" height="648" style="float:left; margin-right:10px;">
 <img src='/images/redgrayscale.gif' width="400" height="648" style="float:left">
 
 
