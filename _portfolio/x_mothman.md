@@ -1,6 +1,6 @@
 ---
 title: "GES 486 Final Project: An Analysis of Mothman Sightings in Point Pleasant, WV from 1966-1967"
-excerpt: "Mothman is a cryptozoological creature that terrororized the citizens of Point Pleasant, WV and surrounding areas between 1966-1967. Here, I present an analysis of the sightings I could find information about. Image of Mothman Statue in Point Pleasant from [The Charleston Gazette](https://www.wvgazettemail.com/arts_and_entertainment/annual-mothman-festival-makes-point-pleasant-a-paranormal-paradise-this-weekend/article_1a0652dc-d480-5c2e-809a-5db33dd90f7d.html) <br/><img src='/images/mothman_statue.jpg'>"
+excerpt: "Mothman is a cryptozoological creature that notably terrororized the citizens of Point Pleasant, WV and surrounding areas between 1966-1967. Here, I present an analysis of the sightings I could find information about. Image of Mothman Statue in Point Pleasant from [The Charleston Gazette](https://www.wvgazettemail.com/arts_and_entertainment/annual-mothman-festival-makes-point-pleasant-a-paranormal-paradise-this-weekend/article_1a0652dc-d480-5c2e-809a-5db33dd90f7d.html) <br/><img src='/images/mothman_statue.jpg'>"
 collection: portfolio
 ---
 ## **Introduction**
