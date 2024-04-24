@@ -1,6 +1,6 @@
 ---
 title: "Summer 2023 Internship at the Chesapeake Conservancy & Bureau of Land Management"
-excerpt: "A recap of my summer internship as a GIS Intern with maps, graphics, and descriptions. Photo: preview of a hydrography map of Douglas Point Special Recreation Management Area<br/><img src='/images/dp_hydro_preview2.png'>"
+excerpt: "A recap of my summer internship as a GIS Intern with maps, graphics, and descriptions. Photo: preview of a hydrography map of Douglas Point Special Recreation Management Area<br/><img src='/images/dp_hydro_preview2.png' width="650">"
 collection: portfolio
 ---
 
