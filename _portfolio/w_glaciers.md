@@ -11,9 +11,10 @@ gifs
 
 ## **paper**
   <iframe
-      src="files/481_finalpaper_johnson.pdf"
+      src="/files/481_finalpaper_johnson.pdf"
       width="100%"
       height="600px"
       loading="lazy"
       title="PDF-file"
+      style="float:right"
   ></iframe>
