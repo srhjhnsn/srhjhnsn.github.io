@@ -36,18 +36,18 @@ I then used QGIS to create 3 maps:
 ## **Results**
 
 ### ***Heatmap***
-<br/><img src='/images/mothman_heatmap.jpeg'>
+<br/><img src='/images/mothman_heatmap.jpeg' width="700">
 
 This is a heatmap of the approximate locations of each sighting. In this area, they seem to be concentrated in and around the TNT Area. This map excludes sightings outside of the Point Pleasant Area.
 
 ### ***Proximity to TNT Area***
-<br/><img src='/images/mothman_proximity_map.jpeg'>
-<br/><img src='/images/mothman_proximity_chart.png'>
+<br/><img src='/images/mothman_proximity_map.jpeg' width="700">
+<br/><img src='/images/mothman_proximity_chart.png' width="700">
 
 This map depicts the proximity of each sighting in the Point Pleasant area to the TNT area in half mile intervals. The chart breaks down the percentage of the sighting’s proximity, combining the previous category to the next. For example, the <1 mile category includes the sightings inside the TNT area and sightings <0.5 miles away.
 
 ### ***Bar Charts***
-<br/><img src='/images/mothman_chart_layout.jpg'>
+<br/><img src='/images/mothman_chart_layout.jpg' width="700">
 
 These bar charts depict different aspects of the sightings. Specifically, attribtues of Mothman's appearance and details of the timings of sightings.
 
