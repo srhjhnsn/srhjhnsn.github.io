@@ -54,7 +54,7 @@ These bar charts depict different aspects of the sightings. Specifically, attrib
 ### ***Web Map***
 <iframe src="https://srhjhnsn.github.io/portfolio/mothman_webmap/index.html" width="850" height="600" style="border:0" allowfullscreen></iframe>
 
-This is the link to the Web Map, which depicts the locations of all the Mothman sightings I could find in the 2 books, including the ones outside of the Point Pleasant area.
+This is the Web Map I created, which depicts the locations of all the Mothman sightings I could find in the 2 books, including the ones outside of the immediate Point Pleasant area.
 
 ## **Discussion**
 
