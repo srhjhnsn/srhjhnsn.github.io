@@ -34,11 +34,10 @@ Work experience
 * February 2023 - Present: GIS Lab Proctor
   * UMBC
   * Duties include:
-    * Running GIS Lab on campus
-    * Assisting students with GIS Lab assignments during open lab hours
-    * Opening and closing the lab
-    * Helping with various tasks as needed
-    * Ensuring lab policies are followed
+    * Responsible for operating the GIS & Cartography labs
+    * Assisted students with GIS lab assignments during open lab hours
+    * Helped Lab Director with duties as assigned including setting up outdoor & indoor labs for classes, fixing and setting up computers, and testing GIS equipment to ensure it is functional
+    * Ensured lab policies were followed, and was responsible for opening & closing the lab 
 
 
 * October 2022 - Present: Data Collector
@@ -73,6 +72,7 @@ Skills
   * R/RStudio
   * ESRI Story Map
 * Field experience in Forestry
+* Lab experience in environmental science, botany, and entomology 
 * Experience in writing informational website & social media content
 * Experienced user in office productivity suites & team collaboration suites
 * Proven problem-solving skills
