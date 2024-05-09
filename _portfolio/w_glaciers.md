@@ -16,11 +16,9 @@ Below is a PDF copy of my final product that goes into detail about everything t
       title="PDF-file"
       style="float:right"
   ></iframe>
-  
+</n>
 ## **Images**
 To visually sumarize the change in glacier surface area, I created 2 gifs of the classification and the red band grayscale. They may not show up properly in the paper itself, so I have included them here so you can see the blatant retreat of these glaciers. More details on how I created these gifs and how I processed the Landsat images can be found in my paper.
 <img src='/images/classifications.gif' width="350">
 <img src='/images/redgrayscale.gif' width="350">
 
-## **Outro**
-thank you for coming to my ted talk
