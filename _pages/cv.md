@@ -14,8 +14,22 @@ Education
 * B.S. in Environmental Science and Geography, UMBC, 2023
 * Certificate in GIScience, UMBC, 2023
 
+Awards
+======
+* Thomas E. Rabenhorst Award (May 2024): Awarded to a graduating senior who has demonstrated unique skills and dedication to study and engagement in GIS or cartography 
+
 Work experience
 ======
+* June 2024 - Present
+  * NASA & SSAI
+  * Duties include:
+    * Researching urban and non-urban heat related to land cover, land use changes
+    * Analyze land surface temperature trends in Maryland using satellite data, e.g. Landsat, MODIS, ECOSTRESS
+    * Verify trends in satellite data using on-the-ground data from weather stations
+    * Use Python, Google Earth Engine, ArcGIS Pro and QGIS for data analysis
+    * Present findings to local government & government programs
+
+
 * August 2023 - December 2023: Landsat Science Writing Intern
   * NASA
   * Duties include:
@@ -69,12 +83,16 @@ Skills
   * ArcGIS Pro
   * ENVI
   * QGIS
+  * Python
   * R/RStudio
+  * Google Earth Engine
+  * Remote Sensing
   * ESRI Story Map
+  * Web-based GIS
 * Field experience in Forestry
 * Lab experience in environmental science, botany, and entomology 
 * Experience in writing informational website & social media content
-* Experienced user in office productivity suites & team collaboration suites
+* Team science using Microsoft Office and Google Workspace
 * Proven problem-solving skills
 * Excellent interpersonal and teamwork skills
 * Strong time management and multitasking skills
