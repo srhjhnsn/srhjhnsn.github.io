@@ -37,7 +37,7 @@ Fig. 3: Bar chart depicting change in surface temperature, separated into urban 
 <img src='/images/su24_fig4.png' width="450"><br/>
 Fig. 4: NLCD LC Data from 2001 and 2021 was compared to see how much change occurred in each LC Class in the study area. The classes with the most net gain are all four Development classes and Cultivated Crops. The classes with the most net loss are Deciduous Forest and Hay/Pasture.
 
-<img src='/images/su24_fig5.png' width="600"><br/>
+<img src='/images/su24_fig5.png' width="750"><br/>
 Fig. 5: Table containing the mean temperature changes by county. These were calculated using Zonal Statistics with the Median Temperature Change raster and NLCD LCCI Urban Change and Non-Urban Change separated by county. Also included is the area of urban change per county, which can be found visually displayed in Fig. 3.
 
 ## **Discussion and Further Research**
