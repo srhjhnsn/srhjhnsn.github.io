@@ -28,7 +28,7 @@ The purpose of this study was to analyze the 22 counties and independent cities 
 <img src='/images/su24_fig1.png' width="800"><br/>
 Fig. 1: Comparison of NLCD LC and Median Surface Temperature around Dulles International Airport (IAD) This area includes Loudoun, Fairfax, and Prince William Counties in VA. Also visible is Montgomery County, MD and Fauquier County, VA. This comparison’s purpose is to show the spatial overlap between new urban developments and surface temperature increases in more detail than shown in Fig. 2. This figure also visually shows the overall increase of temperature over time, which was calculated to be 3.317°C ± 0.001 (see Fig.5).
 
-<img src='/images/su24_fig2.png' width="800"><br/>
+<img src='/images/su24_fig2.jpg' width="800"><br/>
 Fig. 2: An overlapping comparison of NLCD LCCI - Urban Change (2001-2021) and Median Surface Temperature Change (2001-2023) in the whole 22 county study area. In this map, we can see new urban heat islands that have formed, which spatially overlap with high increases in surface temperature.
 
 <img src='/images/su24_fig3.png' width="800"><br/>
