@@ -1,7 +1,7 @@
 ---
 title: "Summer 2024 Internship at SSAI/NASA: Environmental Impacts of Urban Growth - Urban Heat"
 excerpt: "The results of my internship project, where I compared Landsat data and NLCD Land Cover data to find how urban change has affected temperatures in the DMV.
-Photo: Preview of urban heat map <br/><img src='/images/su24_preview.png'>"
+Photo: NLCD Land Cover around Dulles International Airport, 2021 <br/><img src='/images/su24_preview.png'>"
 collection: portfolio
 ---
 ## **Introduction**
@@ -25,19 +25,19 @@ The purpose of this study was to analyze the 22 counties and independent cities 
 - Anything classified as Open Water in 2021 was masked out of all calculations to avoid skewed numbers in counties bordering large bodies of water.
 
 ## **Results**
-<img src='/images/su24_fig1.png' width="800">
+<img src='/images/su24_fig1.png' width="800"><br/>
 Fig. 1: Comparison of NLCD LC and Median Surface Temperature around Dulles International Airport (IAD) This area includes Loudoun, Fairfax, and Prince William Counties in VA. Also visible is Montgomery County, MD and Fauquier County, VA. This comparison’s purpose is to show the spatial overlap between new urban developments and surface temperature increases in more detail than shown in Fig. 2. This figure also visually shows the overall increase of temperature over time, which was calculated to be 3.317°C ± 0.001 (see Fig.5).
 
-<img src='/images/su24_fig2.png' width="800">
+<img src='/images/su24_fig2.png' width="800"><br/>
 Fig. 2: An overlapping comparison of NLCD LCCI - Urban Change (2001-2021) and Median Surface Temperature Change (2001-2023) in the whole 22 county study area. In this map, we can see new urban heat islands that have formed, which spatially overlap with high increases in surface temperature.
 
-<img src='/images/su24_fig3.png' width="800">
+<img src='/images/su24_fig3.png' width="800"><br/>
 Fig. 3: Bar chart depicting change in surface temperature, separated into urban growth areas, non-urban change or no change areas, and the average of the whole county/independent city. Right vertical axis displays the area (Ha) of urban growth in each county/independent city. Independent cities were also noted with a * since they have less area of urban growth due to being previously urbanized and/or being smaller in total area. These were calculated using Zonal Statistics with the NLCD LCCI and Median Surface Temperature Change.
 
-<img src='/images/su24_fig4.png' width="800">
+<img src='/images/su24_fig4.png' width="800"><br/>
 Fig. 4: NLCD LC Data from 2001 and 2021 was compared to see how much change occurred in each LC Class in the study area. The classes with the most net gain are all four Development classes and Cultivated Crops. The classes with the most net loss are Deciduous Forest and Hay/Pasture.
 
-<img src='/images/su24_fig5' width="800">
+<img src='/images/su24_fig5' width="800"><br/>
 Fig. 5: Table containing the mean temperature changes by county. These were calculated using Zonal Statistics with the Median Temperature Change raster and NLCD LCCI Urban Change and Non-Urban Change separated by county. Also included is the area of urban change per county, which can be found visually displayed in Fig. 3.
 
 ## **Discussion and Further Research**
