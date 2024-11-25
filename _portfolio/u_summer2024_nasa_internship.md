@@ -55,3 +55,5 @@ Fig. 5: Table containing the mean temperature changes by county. These were calc
 4. Sexton, J. O. et al. (2013). Urban growth of the Washington, D.C.–Baltimore, MD metropolitan region from 1984 to 2010 by annual, Landsat-based estimates of impervious cover. Remote Sensing of Environment, 129, 42–53. https://doi.org/10.1016/j.rse.2012.10.025
 5. Slides from Explore Earth CCRI: Connecting Changes in the Local Urban Fabric to Global Climate Change
 
+This internship was made possible by Science Systems and Applications, Inc., whom I was contracted by.
+
